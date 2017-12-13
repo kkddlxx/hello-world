@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+hi humans
+
+This is just a code repository.Have a good time. 
